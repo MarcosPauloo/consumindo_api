@@ -2,15 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+Currency conversation project.
 
-This project is a starting point for a Flutter application.
+Project carried out through video from the Flutterando channel.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [APRENDA como consumir APIs da maneira CORRETA no Flutter](https://www.youtube.com/watch?v=BJX98D2BSRg&ab_channel=JacobMouradaFlutterando)
